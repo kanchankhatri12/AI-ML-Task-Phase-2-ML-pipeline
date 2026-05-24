@@ -33,7 +33,7 @@ An end-to-end machine learning pipeline for predicting customer churn using the 
 ### 1. Clone & Install
 
 # Clone repository
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone https://github.com/kanchankhatri12/AI-ML-Task-Phase-2-ML-pipeline.git
 cd customer-churn-prediction
 
 # Install dependencies
